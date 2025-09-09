@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+# Allow Googlebot to crawl everything except disallowed pages
+User-agent: Googlebot
+Allow: /
+
+# Sitemap URL (important for SEO)
+Sitemap: https://valoroak.com/sitemap.xml
